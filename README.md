@@ -1,4 +1,4 @@
-﻿# 使用
+# 使用
 
 文章放在`_posts`目录下，命名为`yyyy-MM-dd-xxxx-xxxx.md`，内容格式如下
 
