@@ -32,6 +32,7 @@ categories: [WhitePowder]
 
 ---
 ## ダウンロード
+> ファイル形式：[EAC] wav+cue+log
 
   - **BaiduDisk**
 

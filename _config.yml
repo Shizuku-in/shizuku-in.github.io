@@ -5,7 +5,7 @@ title: Kouen
 description: Kouen
 keywords: Kouen,Blog,Java,Html,JavaScript
 author: Kouen
-footerText: 'Copyright © 2021'
+footerText: 'Copyright 2020-2021, Kouen'
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
