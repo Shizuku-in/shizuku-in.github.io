@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'UDDigiKyokashoN-B';
-  font-display: block;
+  font-display: fallback;
   src: url('../font/UDDigiKyokashoN-B.ttf');
 }
 
