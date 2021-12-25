@@ -27,15 +27,15 @@ tucaoUrl: https://support.qq.com/product/86335
 menu:
   - title: 首页
     url: /
-  - title: 归类
+  - title: 分類
     url: /pages/categories.html
-  - title: 搜索
+  - title: 検索
     url: /pages/search.html
-  - title: 友链
+  - title: リンク
     url: /pages/links.html
-  - title: 留言
+  - title: コメント
     url: /pages/chat.html
-  - title: 关于
+  - title: Infor
     url: /pages/about.html
 
 # 点击页面文字冒出特效,不需要请设置为false
@@ -50,9 +50,9 @@ extMath: false
 
 # 友情链接
 links:
-  - title: 
-    url: 
-  - title: 
-    url: 
+  - title: Google
+    url: https://www.google.co.jp
+  - title: Getchu
+    url: https://www.getchu.com
 
 
