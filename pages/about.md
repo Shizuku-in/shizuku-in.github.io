@@ -5,7 +5,7 @@ title: Infor
 
 > Hello, welcome to Visual Art CD Archive.
 
-This website is used to publish CD resources, the download methods are BaiduDisk and Telegram Channel
+Release CD, the download urls are BaiduDisk and Telegram Channel
 
 ## Contact me
 
