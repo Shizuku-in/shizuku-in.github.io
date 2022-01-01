@@ -6,7 +6,7 @@ categories: [きゃべつそふと]
 
 # さくらの雲＊スカアレットの恋 ソフマップ特典 録り下ろしボイスドラマDLC
 
-![scalet-sofmap](scalet-sofmap-Cover.jpg)
+![saclet-sofmap](saclet-sofmap-Cover.jpg)
 
 > カタログ番号：N/A
 
