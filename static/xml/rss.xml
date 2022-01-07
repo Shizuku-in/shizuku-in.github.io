@@ -7,7 +7,7 @@ layout: null
     <title>{{site.title}}</title>
     <link>{{site.domainUrl | append: site.baseurl }}</link>
     <description>{{site.description}}</description>
-    <language>zh-CN</language>
+    <language>ja</language>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{site.time | date_to_rfc822}}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
