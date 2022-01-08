@@ -23,9 +23,6 @@ baseurl: ''
 # sub-game
 gsubUrl: https://game.kouen.live
 
-# sub-book
-bookUrl: https://book.kouen.live
-
 # 菜单
 menu:
   - title: トップ
@@ -40,8 +37,6 @@ menu:
     url: /pages/about.html
   - title: ゲーム
     url: /pages/game.html
-  - title: 書籍
-    url: /pages/book.html
 
 # 点击页面文字冒出特效,不需要请设置为false
 extClickEffect: true
