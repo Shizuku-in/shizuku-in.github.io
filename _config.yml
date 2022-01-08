@@ -35,6 +35,8 @@ menu:
     url: /pages/links.html
   - title: Infor
     url: /pages/about.html
+  - title: ゲーム
+    url: /pages/game/html
 
 # 点击页面文字冒出特效,不需要请设置为false
 extClickEffect: true
