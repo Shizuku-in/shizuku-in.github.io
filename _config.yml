@@ -20,8 +20,11 @@ exclude: ['CNAME', 'README.md', 'LICENSE', '_site', 'dist', 'Gemfile', 'Gemfile.
 domainUrl: 'https://music.kouen.live'
 baseurl: ''
 
-# subpage
-subUrl: https://game.kouen.live
+# sub-game
+gsubUrl: https://game.kouen.live
+
+# sub-book
+bsubUrl: https://book.kouen.live
 
 # 菜单
 menu:
@@ -37,6 +40,8 @@ menu:
     url: /pages/about.html
   - title: ゲーム
     url: /pages/game.html
+  - title: 書籍
+    url: /pages/book.html
 
 # 点击页面文字冒出特效,不需要请设置为false
 extClickEffect: true
