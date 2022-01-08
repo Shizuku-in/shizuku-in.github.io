@@ -20,8 +20,8 @@ exclude: ['CNAME', 'README.md', 'LICENSE', '_site', 'dist', 'Gemfile', 'Gemfile.
 domainUrl: 'https://music.kouen.live'
 baseurl: ''
 
-# 吐个槽地址，会在chat页面中重定向到该地址
-tucaoUrl: https://game.kouen.live
+# subpage
+subUrl: https://game.kouen.live
 
 # 菜单
 menu:
