@@ -24,7 +24,7 @@ baseurl: ''
 gsubUrl: https://game.kouen.live
 
 # sub-book
-bsubUrl: https://book.kouen.live
+bookUrl: https://book.kouen.live
 
 # 菜单
 menu:
