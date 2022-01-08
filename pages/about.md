@@ -3,10 +3,14 @@ layout: mypost
 title: Infor
 ---
 
-> Hello, welcome to Visual Art CD Archive.
+# サブページ－音楽
 
-Release CD, the download urls are BaiduDisk and Telegram Channel
+> ダウンロードURL：BaiduNetDisk
+
+> CUE文字コード：UTF-8 with BOM
+
+> 書庫文字コード：UTF-8
 
 ## Contact me
 
-- Email&nbsp;: [mashiro@kouen.live](mailto:mashiro@kouen.live)
+- Email&nbsp;：[mashiro@kouen.live](mailto:mashiro@kouen.live)
